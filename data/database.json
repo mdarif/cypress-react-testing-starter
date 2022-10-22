@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "3NMRelz4g",
+      "uuid": "e323c450-4575-4826-ad07-4bf9a845f799",
+      "firstName": "Mohammad",
+      "lastName": "Arif",
+      "username": "mdarif",
+      "password": "$2a$10$RNNEz/3B.fyDVrQRBwEPW.B7TzyGaZILWD7eykotYWrUHDql8YeIC",
+      "balance": 0,
+      "createdAt": "2022-10-22T07:58:27.991Z",
+      "modifiedAt": "2022-10-22T07:58:27.991Z"
     }
   ],
   "contacts": [
